@@ -2,9 +2,13 @@
 
 Somente site de suporte, política de privacidade e app-ads.txt. O código do aplicativo Android permanece em um repositório privado separado.
 
-Site: https://danielsoaresdemedeiros-code.github.io/
+Site principal: https://randok7.github.io/
 
-Política: https://danielsoaresdemedeiros-code.github.io/privacidade.html
+Política: https://randok7.github.io/privacidade.html
+
+Repositório principal: https://github.com/randok7/randok7.github.io
+
+O endereço antigo https://danielsoaresdemedeiros-code.github.io/ permanece disponível para preservar links das versões anteriores. Ao revisar a política, atualizar ambas as cópias enquanto esses links estiverem em uso.
 
 Suporte: randok7.suporte@gmail.com
 
